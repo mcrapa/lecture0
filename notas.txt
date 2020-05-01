@@ -1,0 +1,4 @@
+copy con filename.extension
+git add filename
+git commit -m "message" filename
+git status
